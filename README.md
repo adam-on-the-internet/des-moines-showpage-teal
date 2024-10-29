@@ -1,16 +1,25 @@
 # Des Moines Showpage - TEAL
 
-- Welcome to Des Moines Showpage. This is based off of the [St. Louis Showpage](https://stlshowpage.com/).
-- Second edition of UI for the Des Moines showpage, written in Angular.
+[Visit the site.](https://des-moines-showpage-teal.netlify.app/)
 
-## Other Des Moines Showpage Repositories
+## About
 
-- [Chartruse Edition - Vanilla HTML/JS/CSS](https://github.com/adam-on-the-internet/des-moines-showpage-chartruse)
-- [Teal Edition - Angular](https://github.com/adam-on-the-internet/des-moines-showpage-teal)
-- [Maroon Edition - React]()
+Welcome to Des Moines Showpage. This is based off of the [St. Louis Showpage](https://stlshowpage.com/).
+
+This is the second edition of UI for the Des Moines showpage, written in Angular.
+
+## Other Des Moines Showpage Instances
+
+- Chartruse Edition - Vanilla HTML/JS/CSS
+    - [Visit Site](https://desmoinesshowpage.netlify.app/)
+    - [GitHub Repo](https://github.com/adam-on-the-internet/des-moines-showpage-chartruse)
+- Teal Edition - Angular
+    - [Visit Site](https://des-moines-showpage-teal.netlify.app/)
+- Maroon Edition - React (coming soon)
 - [Backend - NodeJS/Express/Mongo](https://github.com/adam-on-the-internet/basic-express-app)
+    - [GitHub Repo](https://github.com/adam-on-the-internet/des-moines-showpage-teal)
 
-# DesMoinesShowpageTeal
+# Angular Notes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
 
